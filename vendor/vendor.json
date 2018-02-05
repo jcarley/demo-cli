@@ -15,6 +15,12 @@
 			"revisionTime": "2017-04-17T20:07:03Z"
 		},
 		{
+			"checksumSHA1": "0QZlv9eOOsNXjJsKtVRHw+B1+Ik=",
+			"path": "github.com/chzyer/readline",
+			"revision": "f6d7a1f6fbf35bbf9beb80dc63c56a29dcfb759f",
+			"revisionTime": "2017-12-08T01:17:16Z"
+		},
+		{
 			"checksumSHA1": "cdOCt0Yb+hdErz8NAQqayxPmRsY=",
 			"path": "github.com/hashicorp/errwrap",
 			"revision": "7554cd9344cec97297fa6649b055a8c98c2a1e55",
@@ -105,5 +111,5 @@
 			"revisionTime": "2018-02-02T13:35:31Z"
 		}
 	],
-	"rootPath": "github.com/jcarley/cli"
+	"rootPath": "github.com/jcarley/demo-cli"
 }
