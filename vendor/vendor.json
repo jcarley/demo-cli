@@ -1,0 +1,109 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "GCTVJ1J/SGZstNZauuLAnTFOhGA=",
+			"path": "github.com/armon/go-radix",
+			"revision": "1fca145dffbcaa8fe914309b1ec0cfc67500fe61",
+			"revisionTime": "2017-07-27T15:54:43Z"
+		},
+		{
+			"checksumSHA1": "oTmBS67uxM6OXB/+OJUAG9LK4jw=",
+			"path": "github.com/bgentry/speakeasy",
+			"revision": "4aabc24848ce5fd31929f7d1e4ea74d3709c14cd",
+			"revisionTime": "2017-04-17T20:07:03Z"
+		},
+		{
+			"checksumSHA1": "cdOCt0Yb+hdErz8NAQqayxPmRsY=",
+			"path": "github.com/hashicorp/errwrap",
+			"revision": "7554cd9344cec97297fa6649b055a8c98c2a1e55",
+			"revisionTime": "2014-10-28T05:47:10Z"
+		},
+		{
+			"checksumSHA1": "g7uHECbzuaWwdxvwoyxBwgeERPk=",
+			"path": "github.com/hashicorp/go-multierror",
+			"revision": "b7773ae218740a7be65057fc60b366a49b538a44",
+			"revisionTime": "2017-12-04T18:29:08Z"
+		},
+		{
+			"checksumSHA1": "gEjGS03N1eysvpQ+FCHTxPcbxXc=",
+			"path": "github.com/kardianos/osext",
+			"revision": "ae77be60afb1dcacde03767a8c37337fad28ac14",
+			"revisionTime": "2017-05-10T13:15:34Z"
+		},
+		{
+			"checksumSHA1": "ym3Koe72EEWlnhyjCmuC0FSlDyw=",
+			"path": "github.com/kr/pty",
+			"revision": "282ce0e5322c82529687d609ee670fac7c7d917c",
+			"revisionTime": "2018-01-13T18:08:13Z"
+		},
+		{
+			"checksumSHA1": "w5RcOnfv5YDr3j2bd1YydkPiZx4=",
+			"path": "github.com/mattn/go-isatty",
+			"revision": "6ca4dbf54d38eea1a992b3c722a76a5d1c4cb25c",
+			"revisionTime": "2017-11-07T05:05:31Z"
+		},
+		{
+			"checksumSHA1": "GTwA+0jQnOqTHsVaBIMvTKaE5eI=",
+			"path": "github.com/mitchellh/cli",
+			"revision": "518dc677a1e1222682f4e7db06721942cb8e9e4c",
+			"revisionTime": "2018-01-17T15:54:40Z"
+		},
+		{
+			"checksumSHA1": "m2L8ohfZiFRsMW3iynaH/TWgnSY=",
+			"path": "github.com/mitchellh/panicwrap",
+			"revision": "fce601fe55579125e1b3cb0b992287e7290f7b83",
+			"revisionTime": "2017-01-06T18:23:40Z"
+		},
+		{
+			"checksumSHA1": "eKclqCehbe7JsvlemLF7TfjMWf0=",
+			"path": "github.com/posener/complete",
+			"revision": "cdc49b71388c2ab059f57997ef2575c9e8b4f146",
+			"revisionTime": "2018-01-19T09:07:45Z"
+		},
+		{
+			"checksumSHA1": "NB7uVS0/BJDmNu68vPAlbrq4TME=",
+			"path": "github.com/posener/complete/cmd",
+			"revision": "cdc49b71388c2ab059f57997ef2575c9e8b4f146",
+			"revisionTime": "2018-01-19T09:07:45Z"
+		},
+		{
+			"checksumSHA1": "/HKxX422GpzWV56uW87cwXEWYV8=",
+			"path": "github.com/posener/complete/cmd/install",
+			"revision": "cdc49b71388c2ab059f57997ef2575c9e8b4f146",
+			"revisionTime": "2018-01-19T09:07:45Z"
+		},
+		{
+			"checksumSHA1": "DMo94FwJAm9ZCYCiYdJU2+bh4no=",
+			"path": "github.com/posener/complete/match",
+			"revision": "cdc49b71388c2ab059f57997ef2575c9e8b4f146",
+			"revisionTime": "2018-01-19T09:07:45Z"
+		},
+		{
+			"checksumSHA1": "6U7dCaxxIMjf5V02iWgyAwppczw=",
+			"path": "golang.org/x/crypto/ssh/terminal",
+			"revision": "1875d0a70c90e57f11972aefd42276df65e895b9",
+			"revisionTime": "2018-01-27T19:02:20Z"
+		},
+		{
+			"checksumSHA1": "7EZyXN0EmZLgGxZxK01IJua4c8o=",
+			"path": "golang.org/x/net/websocket",
+			"revision": "2fb46b16b8dda405028c50f7c7f0f9dd1fa6bfb1",
+			"revisionTime": "2018-02-02T11:17:09Z"
+		},
+		{
+			"checksumSHA1": "CNHEeGnucEUlTHJrLS2kHtfNbws=",
+			"path": "golang.org/x/sys/unix",
+			"revision": "37707fdb30a5b38865cfb95e5aab41707daec7fd",
+			"revisionTime": "2018-02-02T13:35:31Z"
+		},
+		{
+			"checksumSHA1": "eQq+ZoTWPjyizS9XalhZwfGjQao=",
+			"path": "golang.org/x/sys/windows",
+			"revision": "37707fdb30a5b38865cfb95e5aab41707daec7fd",
+			"revisionTime": "2018-02-02T13:35:31Z"
+		}
+	],
+	"rootPath": "github.com/jcarley/cli"
+}
